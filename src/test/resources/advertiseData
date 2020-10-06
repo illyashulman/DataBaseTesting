@@ -1,0 +1,29 @@
+[
+{
+"advertise":{
+"id":0,
+"header":"Selling car",
+"structure":"Selling Audi A6 2.0 TDI",
+"dateOfCreation":{"year":2020,"month":9,"day":30},
+"person":{
+"name":"James",
+"surname":"Patison",
+"dateOfBirth":{"year":1999,"month":9,"day":20},
+"email":"james0011@gmail.com"}
+}
+
+},
+{
+"advertise":{
+"id":0,
+"header":"Missing Cat",
+"structure":"I lost my cat, his name is Tom",
+"dateOfCreation":{"year":2020,"month":9,"day":30},
+"person":{
+"name":"Richard",
+"surname":"Dale",
+"dateOfBirth":{"year":1990,"month":8,"day":5},
+"email":"richard0011@gmail.com"}
+}
+}
+]

@@ -1,0 +1,20 @@
+[
+{
+"person":{
+    "id":1,
+	"surname":"Shulman",
+	"name":"Illya",
+	"dateOfBirth":{"year":1999,"month":9,"day":20},
+	"email":"illyashulman2020@gmail.com"
+	}
+},
+{
+"person":{
+    "id":2,
+	"surname":"fokin",
+	"name":"Illya",
+	"dateOfBirth":{"year":1999,"month":9,"day":20},
+	"email":"illyashulman2020@gmail.com"
+	}
+}
+]

@@ -1,0 +1,29 @@
+
+d
+java:S2095x"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(šóœÊ8ßòÎ Í.
+d
+java:S2095&"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(‚µŠ¯8í­—‚Í.
+r	java:S117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Óøáùÿÿÿÿ8õëÏˆÍ.
+q
+java:S20952"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¨°ï—ÿÿÿÿÿ8¾ü°žÍ.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(§‘ŠÐ8Áãú¤Í.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áëôœÿÿÿÿÿ8‹£‰ƒÍ.
+i
+java:S2095%"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµþÿÿÿÿ8í­—‚Í.
+S
+java:S1751)"6Remove this "return" statement or make it conditional.(§¼Éç8í­—‚Í.
+r	java:S117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆæÎ ûÿÿÿÿ8€ØÆŸÍ.
+k
+java:S2095Y"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¿»²A8ì“ÒˆÍ.
+d
+java:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(€–Õ¢8‹£‰ƒÍ.
+i
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµþÿÿÿÿ8‹£‰ƒÍ.
+m	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×¸·Ö8¾ü°žÍ.
+i
+java:S2095w"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµþÿÿÿÿ8ØÕÉ Í.
+o
+java:S1192"MDefine a constant instead of duplicating this literal "advertise_id" 3 times.(áôë»ûÿÿÿÿ8›µÑ Í.
+l
+java:S2095i"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¢“È¯8€ØÆŸÍ.

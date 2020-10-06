@@ -1,0 +1,21 @@
+
+j
+java:S2095H"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(‹©²–üÿÿÿÿ8ÀÜÅÎ.
+‚
+java:S1488,"eImmediately return this expression instead of assigning it to the temporary variable "advertiseData".(Ü¬ŒÅ8ş½­òÍ.
+e
+java:S3973V"HUse indentation to denote the code conditionally executed by this "for".(©Ò½8“°›Î.
+„
+java:S1488"bImmediately return this expression instead of assigning it to the temporary variable "personData".(Ì§³½ÿÿÿÿÿ8ß«ÙÕÍ.
+j
+java:S2095Y"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(æÌ®ºûÿÿÿÿ8íªª›Î.
+„
+java:S1488l"bImmediately return this expression instead of assigning it to the temporary variable "personData".(Ì§³½ÿÿÿÿÿ8ï›ÏÎ.
+™
+java:S2681X"|This line will not be executed in a loop; only the first line of this 2-line block will be. The rest will execute only once.(¨ Ûğ8Ÿ”ì›Î.
+‚
+java:S1488;"eImmediately return this expression instead of assigning it to the temporary variable "advertiseData".(Ü¬ŒÅ8³ÍíÆÎ.
+R
+java:S1128"5Remove this unused import 'jdbc.AdvertiseRepository'.(Û¡‚š8½™—ÇÎ.
+N
+java:S1128",Remove this unused import 'model.Advertise'.(—ƒ®Øùÿÿÿÿ8½™—ÇÎ.

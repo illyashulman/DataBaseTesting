@@ -1,0 +1,35 @@
+
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‰’íñùÿÿÿÿ8ñÃ·‚Í.
+r	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áùá§ıÿÿÿÿ8ñÃ·‚Í.
+i
+java:S2095a"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8ñÃ·‚Í.
+e
+java:S2095‡"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(€–Õ¢8«ë¸ÕÍ.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ“öıùÿÿÿÿ8ñÃ·‚Í.
+s	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹•°êÿÿÿÿÿ8«ë¸ÕÍ.
+g
+java:S1192$"JDefine a constant instead of duplicating this literal "person_id" 4 times.(ËÎ‡—8ºÂ‚Í.
+l
+java:S20953"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Šî¥Ò8ñÃ·‚Í.
+r	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ØÅÊúÿÿÿÿ8ñÃ·‚Í.
+j
+java:S2095˜"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ŠÂÓÃüÿÿÿÿ8ÉÙ·ÕÍ.
+i
+java:S2095y"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8ñÃ·‚Í.
+m	java:S117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ¼Âı8‘ÎÀ‚Í.
+s	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ·ğâøÿÿÿÿ8ÉÙ·ÕÍ.
+l
+java:S2095C"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¢“È¯8ñÃ·‚Í.
+d
+java:S2095b"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÃÖêû8ñÃ·‚Í.
+j
+java:S2095†"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8«ë¸ÕÍ.
+i
+java:S2095P"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8ñÃ·‚Í.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(î®£«8‰ï¿‚Í.
+j
+java:S2095—"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8¯ôğ Í.
+d
+java:S2095z"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(€–Õ¢8š¿‚Í.
